@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "image": "/Bukuartikel.jpg",
+      "id": "3",
+      "nama": "Teknik Penulisan Karya Ilmiah",
+      "city": "Buku Fiksi",
+      "desc": "Lorem ipsum dolor sit amet consectCumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "image": "/Bukubiografi.jpg",
+      "id": "4",
+      "nama": "Ideas",
+      "city": "Buku Biografi",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "image": "/Bukucerita.jpg",
+      "id": "5",
+      "nama": "Kurcaci",
+      "city": "Buku Cerita",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "image": "/Bukumajalah.jpg",
+      "id": "6",
+      "nama": "Umpan",
+      "city": "Buku Majalah",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "image": "/Bukufiksi.jpeg",
+      "id": "7",
+      "nama": "The Hobbit",
+      "city": "Buku Legenda",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "image": "/Bukupelajarann.jpg",
+      "id": "8",
+      "nama": "Matematika",
+      "city": "Buku Pelajaran",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    }
+  ]
+}

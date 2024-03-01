@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "nama": "Destinasi buku 1",
+      "city": "Nanggroe Aceh Darussalam",
+      "image": "/buku1.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "2",
+      "nama": "Destinasi buku 2",
+      "city": "Riau",
+      "image": "/buku2.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "3",
+      "nama": "Destinasi buku 3",
+      "city": "bengkulu Selatan",
+      "image": "/buku3.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "4",
+      "nama": "Destinasi buku 4",
+      "city": "bandung",
+      "image": "/buku4.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "5",
+      "nama": "Destinasi buku 5",
+      "city": "Sumatra Utara",
+      "image": "/buku5.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    },
+    {
+      "id": "6",
+      "nama": "Destinasi buku 6",
+      "city": "Sumatra Utara",
+      "image": "/buku6.png",
+      "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque corrupti nostrum dolores facilis quod quo voluptate repellat quae perferendis! Omnis culpa, eaque a quo eveniet quia, est repellat aliquid eius reiciendis nobis necessitatibus adipisci, blanditiis illum consequuntur autem nihil distinctio."
+    }
+  ]
+}
